@@ -1,9 +1,6 @@
-# Lernen - Git, Codespaces, etc
+---
+description: NEUE seite Test
+---
 
-... alles soll mit Codespaces laufen!
+# Page 1
 
-Und das probieren wir jetzt aus.
-
-Und mit working copy spielen wir auch.
-
-## Python und Julia funktionieren gut in 2023 (von Sitekick)
