@@ -12,3 +12,5 @@ Der Grund für das **"Slibar Wiki"** ist die Tatsache, daß man oft vergißt wie
 
 Stand April 2023
 
+* [Python](http://localhost:5000/s/WJOfbckALi4ugKAV5ZN1/ "mention")
+* [Anleitungen](http://localhost:5000/s/0ag80rNRts0sER0GSIwc/ "mention")
