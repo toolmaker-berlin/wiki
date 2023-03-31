@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Anleitungen](README.md)
+* [HowTo](README.md)
 
 ## 🤭 Installationen
 
