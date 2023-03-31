@@ -1,6 +1,6 @@
 ---
-description: NEUE seite Test
+description: Hier findet man Installationsanleitungen und mehr ...
 ---
 
-# Page 1
+# 💚 Anleitungen
 
