@@ -1,2 +1,2 @@
-# 😎 Homebrew
+# Homebrew
 

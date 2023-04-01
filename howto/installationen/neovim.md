@@ -1,2 +1,2 @@
-# 😎 NeoVim
+# NeoVim
 

@@ -14,6 +14,6 @@
 * [Julia](erste-schritte/julia.md)
 * [Python](erste-schritte/python.md)
 
-## Group 1
+## 👨💻 Kurzanleitungen
 
-* [Einstieg in Python](group-1/einstieg-in-python.md)
+* [Einstieg in Python](kurzanleitungen/einstieg-in-python.md)
