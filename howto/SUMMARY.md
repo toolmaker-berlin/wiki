@@ -12,3 +12,4 @@
 ## 😉 Erste Schritte
 
 * [Julia](erste-schritte/julia.md)
+* [Python](erste-schritte/python.md)
