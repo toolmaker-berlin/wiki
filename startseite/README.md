@@ -1,5 +1,5 @@
 ---
-description: Das ist "Slibar's Wiki".
+description: Hier entsteht "Slibar's Wiki".
 ---
 
 # Willkommen
