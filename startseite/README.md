@@ -14,3 +14,4 @@ Stand April 2023
 
 * [Python](http://localhost:5000/s/WJOfbckALi4ugKAV5ZN1/ "mention")
 * [HowTo](http://localhost:5000/s/0ag80rNRts0sER0GSIwc/ "mention")
+* [Blog](http://localhost:5000/s/sMelc4YaT6refCBMRQBM/ "mention")
