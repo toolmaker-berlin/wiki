@@ -13,3 +13,7 @@
 
 * [Julia](erste-schritte/julia.md)
 * [Python](erste-schritte/python.md)
+
+## Group 1
+
+* [Einstieg in Python](group-1/einstieg-in-python.md)
