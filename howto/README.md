@@ -1,5 +1,5 @@
 ---
-description: Hier findet man Installationsanleitungen und mehr ...
+description: Hier findet man Installationsanleitungen und mehr
 ---
 
 # HowTo
