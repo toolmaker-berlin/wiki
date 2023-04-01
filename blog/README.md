@@ -1,5 +1,5 @@
 ---
-description: Gedanken
+description: Hier finden man Gedanken und Meinungen
 ---
 
 # Blog
