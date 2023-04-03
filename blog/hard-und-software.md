@@ -8,8 +8,6 @@ description: >-
 
 ## iOS/MacOS 2022/23
 
-## Achtung:
-
 * Der M2 hat ein Memory Speed Problem abhängig von der Größe der SSDs. Siehe Mark Ellis Video Export Test. Ab 512GB/1TB gehts wohl gut.
 * Mosh via „Zero Tier One“ geht wieder. Konfiguration irgendwie erneuert.
 * Replit ist teuer geworden, aber Dank meiner bisherigen Optimierungen auch gut zu gebrauchen. Vorteil iOS Integration besonders des Editors, GIT und Browser.
