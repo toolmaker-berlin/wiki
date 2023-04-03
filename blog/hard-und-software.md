@@ -1,12 +1,13 @@
 ---
 description: >-
-  Hier findet man meine Abwägungen zu verwendeter Hard- und Software seit Anfang
-  2020. Aktuelle Informationen befinden sich am Anfang der Seite.
+  Hier findet man meine persönlichen Abwägungen zu verwendeter Hard- und
+  Software seit Anfang 2020. Aktuelle Informationen befinden sich am Anfang der
+  Seite.
 ---
 
 # Hard- und Software
 
-## iOS/MacOS 2022/23
+## iOS/MacOS und Geräte 2022/23
 
 * Der M2 hat ein Memory Speed Problem abhängig von der Größe der SSDs. Siehe Mark Ellis Video Export Test. Ab 512GB/1TB gehts wohl gut.
 * Mosh via „Zero Tier One“ geht wieder. Konfiguration irgendwie erneuert.
