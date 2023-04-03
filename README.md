@@ -3,7 +3,7 @@
 
 Per Internet sind die Informationen auf <http://slibar.gitbook.io/wiki/> aufrufbar.
 
-Zusätzlich Informationen, wie einige Konfigurationsdateien, befinden sich im Ordner "Dateien".
+Zusätzlich Informationen, wie einige Konfigurationsdateien, befinden sich im Ordner "dateien".
 
 Der Herausgeber übernimmt keinerlei Gewähr für die Aktualität, Korrektheit, Vollständigkeit oder Qualität der bereitgestellten Informationen. Der Herausgeber behält es sich ausdrücklich vor, Teile der Seiten oder das gesamte Angebot ohne gesonderte Ankündigung zu verändern, zu ergänzen, zu löschen oder die Veröffentlichung zeitweise oder endgültig einzustellen. Haftungsansprüche gegen den Inhaber, die sich auf Schäden materieller oder ideeller Art beziehen, welche durch die Nutzung oder Nichtnutzung der dargebotenen Informationen bzw. durch die Nutzung fehlerhafter und unvollständiger Informationen verursacht wurden sind ausgeschlossen.
 
