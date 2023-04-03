@@ -16,4 +16,4 @@
 
 ## 👨💻 Kurzanleitungen
 
-* [Einstieg in Python](kurzanleitungen/einstieg-in-python.md)
+* [Quick-Referenz Python](kurzanleitungen/quick-referenz-python.md)

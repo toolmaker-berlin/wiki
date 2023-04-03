@@ -1,6 +1,4 @@
-# Einstieg in Python
-
-### Quick-Referenz Python
+# Quick-Referenz Python
 
 #### Importieren
 
