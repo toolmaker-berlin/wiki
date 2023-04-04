@@ -14,25 +14,26 @@ description: >-
 * Sichten der vorhandenen Notizen und Experimente zum Wissenstransfer ins neue private Wiki
 * Sortieren vorhandener Programmbeispiele und präsentierten in verschiedenen Umgebungen
 * Herrichten einiger exemplarischer Umgebungen zum benutzen und präsentieren
-* Vertiefen von Julia und Vim, ggf. Swift lernen
-* Daten aufräumen und Livedrive abgleichen
+* Vertiefen von Julia und Vim
+
+
 
 ### Cloud Nativ als Ziel
 
 * Livedrive, iCloud und Git sind die Backbones meiner Daten neben lokalen Backups.
 * Wichtige Cloud Dienste: CoCalc, Replit und ein paar Nischenanbieter z.B. für Swift, sowie neu: Gitbook
 * Wichtige Werkzeuge sind iTerm2, Vim, JupyterLab, VSCode für Python, Julia und vielleicht auch etwas Swift.
-* CoCalc ist die allumfängliche Lösung. Mit JupyterLab und VSCode braucht es später aber ein Upgrade.
+* CoCalc ist die allumfängliche Lösung. Mit JupyterLab und VSCode braucht es aber ein Upgrade (4 CPU, 4GB RAM)
 
 ### Hardware
 
-* Arbeitszimmer mit MacPro und 32“ Monitor zum intensiven arbeiten und sortieren, sowie TV-Konsum inkl. YouTube
+* MacPro und 32“ Monitor zum intensiven arbeiten und sortieren, sowie TV-Konsum inkl. YouTube
 * Reserve bilden alte iMac‘s und ggf. ein neuer Mac Studio (gebraucht)
 * Mobil konzentriert es sich auf iOS iPhone - weniger Tabletts
-* Falls nötig Mobil eher eines der diversen kleinen MacBooks
+* Falls nötig Mobil eher eine MacBook 12"
 * Immer wieder verlockend: kleines iPhone, iPad mini (neu) und meine Apple Watch
-* Neu: Wohnzimmer Arbeitsplatz mit Kompromiss MacBook Pro 13“ M1 (AirPlay möglich)
-* Outdoor möglichst nur iOS - besonders mein iPhone benutzen. In der Schlosswohnung eher MacBooks.
+* Neu: Kompromiss MacBook Pro 13“ M1&#x20;
+* Outdoor möglichst nur iOS - besonders mein iPhone benutzen.&#x20;
 
 ## iOS/MacOS und Geräte 2022/23
 
