@@ -7,6 +7,33 @@ description: >-
 
 # Hard- und Software
 
+## Neuausrichtung 2023
+
+### Aktuell
+
+* Sichten der vorhandenen Notizen und Experimente zum Wissenstransfer ins neue private Wiki
+* Sortieren vorhandener Programmbeispiele und präsentierten in verschiedenen Umgebungen
+* Herrichten einiger exemplarischer Umgebungen zum benutzen und präsentieren
+* Vertiefen von Julia und Vim, ggf. Swift lernen
+* Daten aufräumen und Livedrive abgleichen
+
+### Cloud Nativ als Ziel
+
+* Livedrive, iCloud und Git sind die Backbones meiner Daten neben lokalen Backups.
+* Wichtige Cloud Dienste: CoCalc, Replit und ein paar Nischenanbieter z.B. für Swift, sowie neu: Gitbook
+* Wichtige Werkzeuge sind iTerm2, Vim, JupyterLab, VSCode für Python, Julia und vielleicht auch etwas Swift.
+* CoCalc ist die allumfängliche Lösung. Mit JupyterLab und VSCode braucht es später aber ein Upgrade.
+
+### Hardware
+
+* Arbeitszimmer mit MacPro und 32“ Monitor zum intensiven arbeiten und sortieren, sowie TV-Konsum inkl. YouTube
+* Reserve bilden alte iMac‘s und ggf. ein neuer Mac Studio (gebraucht)
+* Mobil konzentriert es sich auf iOS iPhone - weniger Tabletts
+* Falls nötig Mobil eher eines der diversen kleinen MacBooks
+* Immer wieder verlockend: kleines iPhone, iPad mini (neu) und meine Apple Watch
+* Neu: Wohnzimmer Arbeitsplatz mit Kompromiss MacBook Pro 13“ M1 (AirPlay möglich)
+* Outdoor möglichst nur iOS - besonders mein iPhone benutzen. In der Schlosswohnung eher MacBooks.
+
 ## iOS/MacOS und Geräte 2022/23
 
 * Der M2 hat ein Memory Speed Problem abhängig von der Größe der SSDs. Siehe Mark Ellis Video Export Test. Ab 512GB/1TB gehts wohl gut.
