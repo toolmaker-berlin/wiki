@@ -9,3 +9,5 @@ Der Herausgeber übernimmt keinerlei Gewähr für die Aktualität, Korrektheit, 
 Die Links und Informationen werden nur zum Informationsaustausch bereitgestellt und begründen keine geschäftlichen oder beruflichen Beziehungen irgendwelcher Art, sondern dienen rein informativen Zwecken.
 
 **Stand April 2023**
+
+{% embed url="https://github.com/toolmaker-berlin/wiki" %}
