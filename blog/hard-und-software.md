@@ -367,11 +367,11 @@ Julia via CoCalc und JUNO auf dem 11er läuft und Codespaces auch.
 
 > JupyterLab und vim/ipython werden meine Spielzeuge bevorzugt via CoCalc bleiben inkl. C und Assembler. Offline A-Shell, iSH, Pythonista, etc. kann Spaß bringen ebenso wie iPad Swift.
 
-> ok - das iPad 10.5 ist repariert und bekommt die neue eSIM vom iPhone übertragen. **Achtung: Tastaturen geprüft: schwer aber Logitech ist super auch im Sommer. Mit SIM optimal!** eSIM ggf mit Petras iPad tauschen! Und 26€ sparen.
+> ok - das iPad 10.5 ist repariert und bekommt die neue eSIM vom iPhone übertragen. **Achtung: Tastaturen geprüft: schwer aber Logitech ist super auch im Sommer. Mit SIM optimal!**
 
 > Neue iPhone Gerüchte: Superzoom kommt erst mit 15er, so dass erst das 16er in 2024 das gewünschte TOCK wird. Dann also vielleicht doch schon beim nächsten in 2022 zuschlagen? Nein, denn das 11er ist gut.
 
-> Alle MacBooks sind aktuell kein Kauf. Auch erste M2 Air nicht. A) Weil die ersten. B) M2 Pro’s wären 2. Generation und ok. Also noch viel Zeit. iPhone 15 ist dann auch erst in zwei Jahren dran. Mein 11er tut es noch gut und auch alle vorhandenen Geräte. Also fragt sich Nutzen vom iPad. 11er M1 bzw. 4/3. Generation 12.9er bieten Geschwindigkeit für lokale Arbeit und CoCalc im Browser. Ggf. auch aktuelles Gerät falls echter Bedarf. Neues 11/12er iPad’s kommen Ende 2022! **Also warten?** Geld sparen für Neuanschaffung. Wie wäre es mit einem 11er M2 iPad Ende 2022? Oder 15er iPhone Max Ende 2023? Trotzdem immer auf 4.Generation des iPad 12.9 mit Magic Keyboard achten. Bei Schnäppchen mit 4G kann man zuschlagen (WARUM?). Achtung: C zuvor noch auf M1 nativ selber benchmarken (Flora)!
+> Alle MacBooks sind aktuell kein Kauf. Auch erste M2 Air nicht. A) Weil die ersten. B) M2 Pro’s wären 2. Generation und ok. Also noch viel Zeit. iPhone 15 ist dann auch erst in zwei Jahren dran. Mein 11er tut es noch gut und auch alle vorhandenen Geräte. Also fragt sich Nutzen vom iPad. 11er M1 bzw. 4/3. Generation 12.9er bieten Geschwindigkeit für lokale Arbeit und CoCalc im Browser. Ggf. auch aktuelles Gerät falls echter Bedarf. Neues 11/12er iPad’s kommen Ende 2022! **Also warten?** Geld sparen für Neuanschaffung. Wie wäre es mit einem 11er M2 iPad Ende 2022? Oder 15er iPhone Max Ende 2023? Trotzdem immer auf 4.Generation des iPad 12.9 mit Magic Keyboard achten. Bei Schnäppchen mit 4G kann man zuschlagen (WARUM?). Achtung: C zuvor noch auf M1 nativ selber benchmarken!
 
 > **Also neues iPhone und ggf. MacBook erst ab 2023/2024 und auf Black Friday achten (amazon & apple & andere).**
 
@@ -407,9 +407,6 @@ Für 11- bzw. 10,5-Zoll-Modelle: 245 g (10,5 Zoll, 2017) < 297 g (11 Zoll, 2018)
 * pro Max für Arbeiten und als MIFI mit großer Batterie
 * Das 13er ist aktuell und das derzeitige TOCK bis auf die nächsten 2 Jahre
 * Verbesserung bei bat nits speed 5G und Fotos
-* später zu Petra
-* Da sie das 11er nicht mag geht es is Trade-In bei Apple
-* von Robert noch 350 anrechnen, dann hab ich noch 600€ draufzulegen = ok
 * **Einzig es wäre nicht notwendig dieser schöne Plan**
 * Vielleicht dann auch das 512er Model ist 250 mehr - wohl eher nicht
 * Contra iPad mini -> ist in der Hand zu schwer aber transportabel. Performance leider unterirdisch. Besser normales iPad das ist auch noch transportabel.
@@ -426,7 +423,7 @@ Neue Erkenntnisse Okt./Nov. 2021:
 * MacPro mit 27 Zoll und FireFox einfach super
 * Jetzt noch den Online-Switch im Kopf umlegen
 
-> **Oktober 2021 Status: Alle Gerätekategorien sind vorhanden. Einige sogar redundant. Daher höchstens Ersatzbeschaffungen im Fall der Fälle und warten (bis zu zwei Jahre) auf M2 MacBook Air und 14/15er iPhone‘s. iPhone 11 Pro ist ok. Neues währe 2 mm breiter und ein iPhone Mini 5 mm schmaler und rund 40 Gramm leichter. Ein iPhone Max vielleicht zu groß. Alle (!) iPad‘s erlauben lokal und remotes arbeiten. Mit Tastatur sogar recht komfortabel. Für entspanntes Arbeiten sollten allerdings die Mac‘s und MacBook‘s bevorzugt benutzt werden. Aktuelle M1er bringen zur Zeit kaum Vorteile eher noch einige Kompatibilitätsprobleme. Also auch hier entspannt abwarten. Zwischenzeitlich noch mit RASPI4 experimentieren und Kurse erledigen. Software Werkzeugkasten ist zudem gut gefüllt.**
+> **Oktober 2021 Status: Alle Gerätekategorien sind vorhanden. Einige sogar redundant. Daher höchstens Ersatzbeschaffungen im Fall der Fälle und warten (bis zu zwei Jahre) auf M2 MacBook Air und 14/15er iPhone‘s. iPhone 11 Pro ist ok. Neues währe 2 mm breiter und ein iPhone Mini 5 mm schmaler und rund 40 Gramm leichter. Ein iPhone Max vielleicht zu groß. Alle (!) iPad‘s erlauben lokal und remotes arbeiten. Mit Tastatur sogar recht komfortabel. Für entspanntes Arbeiten sollten allerdings die Mac‘s und MacBook‘s bevorzugt benutzt werden. Aktuelle M1er bringen zur Zeit kaum Vorteile eher noch einige Kompatibilitätsprobleme. Also auch hier entspannt abwarten. Zwischenzeitlich noch mit RASPI4 experimentieren. Software Werkzeugkasten ist zudem gut gefüllt.**
 
 > The 12 Mini and the 13 mini both come in at 64.2mm wide x 131.5 high. Where the 12 was 7.4mm deep the 13 mini is 7.65 deep and weighs 40 grams more at 173 grams to the previous phone’s 133 grams. More on this later. So apart from the extra depth and slightly greater heft, the iPhone 13 mini is identical and almost indistinguishable (on the outside at least) from its forbear.
 
@@ -448,15 +445,13 @@ Apple iPad Mini 6 (2021): Datenblatt Bildschirmdiagonale 8,3 Zoll Arbeitsspeiche
 
 * 13er Mini ist **jetzt** akzeptabel, ggf. Downsizing (falls Ersatz nötig). Da aber mein 11er pro noch sehr ok ist wird es leider KEIN 13er Mini geben.
 * 13er Pro bleibt Kompromiss, aber **improved** (Nits, Bat.,Screen, Foto z.B. Makro)
-* 13er Pro **Max mehr für Petra,** wann auch immer wie jedes neuere MAX
 * iPad Mini 6, es fehlte noch ein Keyboard (kein Anschluss) & OLED & A16+ & 2TB, aber arbeitsfähig wie 4er. Als Terminal zu teuer. ABER: Transportable und leicht. Neues case wie 11er Pro ok und chic: Sofort einsatzfähig, **aber altes iPad 4 Mini genauso.**
 * Jetzt noch Macbook Pros und neues Air **abwarten** (und weiter Bedarf testen)
-* **Vielleicht noch ein magic Keyboard für Petras 11er, also für mich?**
 * Weiterhin iPhone 14/15 im Blick da leichter, schneller, kleinere Kamera und bessere Laufzeit
 * Jederzeit Rückgriff auf 13++ Modelle aus Kostengründen
 * **Mini oder Max** wird immer die Frage bleiben
 
-So das ist kleiner Test wie es mit dem Pro 11“ und einem kleinem Keyboard so läuft. Auch hier ist die Bildschirmtastatur ausreichend. Also 11“ sind dann doch angenehme Verhältnisse. Das macht es dem Mini dann doch schwer. AHA noch kein neues Multitasking. Ich denke … aha Center Stage wird es wohl so auch nicht geben. Also Mini ist ok, sogar das alte 4er. Aber mit 11“ und Position wie mit Magic Keyboard ist schon echt arbeitsfähig. Ich habe zur Zeit allerdings eine Tastatur dran die eher dem 12,9 Zoll entspricht. Damit kommt man dann in Notebook Reichweite. Aber der erhöhte Bildschirm ist dann doch sehr ergonomisch da näher vor den Augen. So ein 12“ iPad mit Magic Keyboard kommt nicht in Frage, da die Größe und das Gewicht ein MacBook Air entspricht. Zusätzlich weniger Laufzeit. Im 11“ liegt der Vorteil jedoch in der Größe und der Nachteil in den inkompatiblen Programme (Unix). Das neue Mini ist noch leichter und am besten mit Bildschirm oder BT-Tastatur wenn nötig. Ich vertraue dem Magic Keyboard nicht wegen der engen Tastatur. Ständig hauen die Finger gegen das Pad und die Zahlenreihe ist verdeckt. Trotzdem ist das Magic Keyboard zu Petras 11er ein Versuch wert. Gönne ich mir vielleicht. Bis dahin wird simuliert. Jetzt mal noch ein Test mit der angesteckten Mini-Tastatur von ARTECK Da auch das Mini 4 noch gut funktioniert heisst die Devise eher abwarten, ggf. nur Ersatzbeschaffung.
+So das ist kleiner Test wie es mit dem Pro 11“ und einem kleinem Keyboard so läuft. Auch hier ist die Bildschirmtastatur ausreichend. Also 11“ sind dann doch angenehme Verhältnisse. Das macht es dem Mini dann doch schwer. AHA noch kein neues Multitasking. Ich denke … aha Center Stage wird es wohl so auch nicht geben. Also Mini ist ok, sogar das alte 4er. Aber mit 11“ und Position wie mit Magic Keyboard ist schon echt arbeitsfähig. Ich habe zur Zeit allerdings eine Tastatur dran die eher dem 12,9 Zoll entspricht. Damit kommt man dann in Notebook Reichweite. Aber der erhöhte Bildschirm ist dann doch sehr ergonomisch da näher vor den Augen. So ein 12“ iPad mit Magic Keyboard kommt nicht in Frage, da die Größe und das Gewicht ein MacBook Air entspricht. Zusätzlich weniger Laufzeit. Im 11“ liegt der Vorteil jedoch in der Größe und der Nachteil in den inkompatiblen Programme (Unix). Das neue Mini ist noch leichter und am besten mit Bildschirm oder BT-Tastatur wenn nötig. Ich vertraue dem Magic Keyboard nicht wegen der engen Tastatur. Ständig hauen die Finger gegen das Pad und die Zahlenreihe ist verdeckt. Jetzt mal noch ein Test mit der angesteckten Mini-Tastatur von ARTECK Da auch das Mini 4 noch gut funktioniert heisst die Devise eher abwarten, ggf. nur Ersatzbeschaffung.
 
 > Allerdings passt das 12.9er dann nicht überall mit. Hab gerade mal das 4er ohne Tastatur ausprobiert - ist immer noch ok. Ich denke aber ein 11er wird mehr Spaß machen wegen des besseren Bildschirms. Mit Magic Keyboard aber nur indoor z.b. im Café. Sozusagen dann doch alternative zu Notebook … von der Ergonomie her betrachtet die (Reise-) Zukunft. Kein Logitec wegen eben dieser Ergonomie…
 
@@ -503,11 +498,11 @@ _**Wenn überhaupt dann müsste es ein 13er besser 14er Pro oder Max in 2022 sei
 
 ### Ziel
 
-* Lernen (auch Kurse)
+* Lernen
 * Spaß
 * Konfigurieren
 * Schnipsel in Bash und Python/Jupyter
-* Dokumentation und/oder Buch
+* Dokumentation und/oder neues Buch
 
 ### Folgen
 
@@ -537,10 +532,6 @@ So hier nur noch Test mit **iPhone 7 Plus!** Einfach besseres Format. Das 12s bz
 **Alternativ:** Es könnte sich durch einbeziehen des iPad Minis herausstellen, daß 2x Mini bzw. iPhone Pro und iPad Mini die geeignetste Kombination fürs digitale Hobby/Leben ist! Zum Mini gibt es dann ggf. auch noch Tastaturen. Das Mini läßt sich zudem prima auf dem Schoß tippen. So wird auch die Hand entlastet.
 
 Dann also auch abwarten und kein Pro Max kaufen, denn das 7 Plus ist nur 0,03 schmaler als 11 Pro Max und 0,28 als 12 Pro Max. Und das 12er Pro ist wiederum doch 0,38 weniger als das 7 Plus aber schon besser zu tippen als 11 Pro obwohl nur 0,22 breiter als 11er Pro. Also zur Arbeit im Garten und auf dem Sofa tut es das gute alte 7 Plus noch eine Weile.
-
-Link (Test):
-
-[How to Build and Publish your own Python Command Line Tool](https://link.medium.com/4f8QuwpXDhb)
 
 ### Fakten Fakten Fakten
 
