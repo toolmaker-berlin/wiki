@@ -629,18 +629,14 @@ Damit könnte die MagSafe Batterie also auch ein iPhone 12 Pro problemlos vollst
 * **Berücksichtige 5G in ca 2 Jahre!**
 * **11 Pro ist (noch) guter Kompromiss**
 * **Warten 15 Pro (Max/S) in 2 Jahre**
-* **Und: Neues Max zuerst für Petra**
 
 ### Mitspieler M1
 
 * Aktuelles MacBook Air M1 insgesamt so schnell MacPro (Multicore) und doppelt so schnell pur (Singlecore) aber gleich schnell mit iPhone!
 * Macbook Air etwas zu groß und etwas zu schwer im Vergleich 12er Macbook (Batterie noch 6 von 8 Std. und Speed 50% geht noch so)
-* Harald hat alles (ausser mini's und max zum spielen) auch dank cocalc
 * **Auch hier neue Generationen (Air und Pros) abwarten falls nötig**
 * **iPhone zuerst an neues MAX für Petra denken**
 * Denke eher **keine Aufrüstungen und Reparaturen** mehr (altes iPad Batterie/LCD?, ~~MacBook Batterie~~, ~~MacPro SSD reicht~~ -> X mal 500,- und mehr -> iPhone's / Mini6 / M1)
-
-https://www.gq-magazin.de/video/watch/unboxing-apple-iphone-12-mini-12-pro-und-12-pro-max-im-vergleich-gq-germany
 
 ### iPhone SE Model 2022
 
