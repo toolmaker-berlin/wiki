@@ -14,7 +14,6 @@ description: >-
 * Sichten der vorhandenen Notizen und Experimente zum Wissenstransfer ins neue private Wiki
 * Sortieren vorhandener Programmbeispiele und präsentierten in verschiedenen Umgebungen
 * Herrichten einiger exemplarischer Umgebungen zum benutzen und präsentieren
-* Vertiefen von Julia und Vim
 
 
 
@@ -23,33 +22,33 @@ description: >-
 * Livedrive, iCloud und Git sind die Backbones meiner Daten neben lokalen Backups.
 * Wichtige Cloud Dienste: CoCalc, Replit und ein paar Nischenanbieter z.B. für Swift, sowie neu: Gitbook
 * Wichtige Werkzeuge sind iTerm2, Vim, JupyterLab, VSCode für Python, Julia und vielleicht auch etwas Swift.
-* CoCalc ist die allumfängliche Lösung. Mit JupyterLab und VSCode braucht es aber ein Upgrade (4 CPU, 4GB RAM)
+* CoCalc ist die allumfängliche Lösung. Für JupyterLab und VSCode braucht es aber ein Upgrade auf eine bessere Lizenz (4 CPU, 4GB RAM)
 
 ### Hardware
 
-* MacPro und 32“ Monitor zum intensiven arbeiten und sortieren, sowie TV-Konsum inkl. YouTube
-* Reserve bilden alte iMac‘s und ggf. ein neuer Mac Studio (gebraucht)
-* Mobil konzentriert es sich auf iOS iPhone - weniger Tabletts
-* Falls nötig Mobil eher eine MacBook 12"
-* Immer wieder verlockend: kleines iPhone, iPad mini (neu) und meine Apple Watch
+* MacPro und 32“ Monitor zum intensiven arbeiten&#x20;
+* Reserve bilden alte iMac‘s&#x20;
+* Mobil konzentriert es sich auf iOS iPhone - weniger auf Tabletts
+* Falls nötig Mobil eher ein altes MacBook 12"
+* Immer wieder verlockend: kleines iPhone, iPad mini (neu) und eine Apple Watch
 * Neu: Kompromiss MacBook Pro 13“ M1&#x20;
 * Outdoor möglichst nur iOS - besonders mein iPhone benutzen.&#x20;
 
 ## iOS/MacOS und Geräte 2022/23
 
 * Der M2 hat ein Memory Speed Problem abhängig von der Größe der SSDs. Siehe Mark Ellis Video Export Test. Ab 512GB/1TB gehts wohl gut.
-* Mosh via „Zero Tier One“ geht wieder. Konfiguration irgendwie erneuert.
+* Mosh via „Zero Tier One“ geht wieder. Konfiguration musste erneuert werden
 * Replit ist teuer geworden, aber Dank meiner bisherigen Optimierungen auch gut zu gebrauchen. Vorteil iOS Integration besonders des Editors, GIT und Browser.
 * Replit funktioniert auch am Mac gut. Der Editor ist allerdings Mist.
-* Es gilt trotz allem: ich habe genug gute Geräte (solange diese funktionieren, aber wo ist mein neues MacBook?).
+* Es gilt trotz allem: ich habe genug gute Geräte (solange diese funktionieren).
 * Auch mein iPhone kann noch lange durchhalten, zudem erst ab 15/16er Generation wirkliche Fortschritte zu erwarten sind: USB3, Titan, Zoom, Nits, Speed.
 * Ein faltbares iPhone wäre der Hit.
 
 ## iPhone 13 Pro Max
 
-* Der neue iPhone Ständer ist echt klasse. Dünn, leicht und man kann ganz nahe an ihn ran rücken, so das man mit der Tastatur nahe wie bei einem Laptop sitzt. Mit der Falttastatur kommt man sogar so weit runter, dass man die Zifferntasten nicht mehr richtig sieht wie beim Magic Keyboard von Apple. Das ganze passt dann in eine kleine Tasche.
+* Der neue iPhone Ständer ist echt klasse. Dünn, leicht und man kann ganz nahe an ihn ran rücken, so das man mit der externen Tastatur nahe wie bei einem Laptop sitzt. Mit der Falttastatur kommt man sogar so weit runter, dass man die Zifferntasten nicht mehr richtig sieht wie beim Magic Keyboard von Apple. Das ganze passt dann in eine kleine Tasche.
 * Auch der neue Fingerring gibt einen guten vertikalen Ständer ab.
-* Replit ist insofern mies als APP, als man nicht zwischen den Apps hin- und herschalten kann ohne das die App ein reconnect zum Server erzwingt. Und der dauert. Vielleicht hilft dualscreen. Leider nein, wird nicht unterstützt. Aber der App-wechsel scheint jetzt schneller zu gehen als früher.
+* Replit ist insofern mies als APP, als man nicht zwischen den Apps hin- und herschalten kann ohne das die App ein reconnect zum Server erzwingt. Und der dauert. Vielleicht hilft dualscreen. Leider nein, wird nicht unterstützt. Aber der App-wechsel scheint jetzt schneller zu gehen als früher. Die App wächst!
 * Blink hat mosh, aber CoCalc hat es nicht. Dafür hat ShellFish Tmux integriert was gut läuft.
 * Blink bietet dafür auf iPads mit Tastatur VSCode!
 * CoCalc bleibt der große gemeinsame Nenner für remode Arbeit mit vim/Julia oder Python. Ggf. auch Juno Connect.
@@ -100,7 +99,7 @@ Codon is a high-performance Python compiler that compiles Python code to native 
 
 > Ende Januar 2023 hat Apple mit den aktualisierten Mac Mini‘s M2 und M2 Pro sein Angebot erneuert. Der M2 Max debütiert in den neuen MacBooks Pro’s.
 
-> Weiterhin besteht kein Handlungsbedarf, da es keine Anwendung für mehr In-house Performance über den aktuelle vorhandenen Geräten gibt. Mobil wird noch viel experimentiert und „cloud native“ beim Coden wird sogar immer attraktiver.
+> Weiterhin besteht kein Handlungsbedarf, da es zur Zeit keine Anwendung für mehr In-house Performance über den aktuelle vorhandenen Geräten gibt. Mobil wird noch viel experimentiert und „cloud native“ beim Coden wird sogar immer attraktiver.
 
 > Damit wird der Bedarf an stationärer Hardware auch immer anspruchsloser. Im Extremfall tut es immer noch ein M1 Mac Mini oder ein älterer Intel-Mac, je nach attraktiver Ausstattung. Angebote liegen jeweils um die 1000€, auch MacBooks in Shell-Mode wären gebraucht eine Alternative.
 
@@ -130,7 +129,7 @@ Codon is a high-performance Python compiler that compiles Python code to native 
 * **1000 Nits** und mattes Panzerglas in der Sonne sind besser als jedes iPad oder Notebook.
 * Trotz Größe und Gewicht mehr Komfort beim Lesen und Schreiben dank besserem **Bildschirm und Bildschirmtastatur** (mit Fingerring). Man gewöhnt sich schnell daran und das iPhone 11 Pro wirkt plötzlich winzig. Nach ein paar Wochen tritt Gewöhnung ein: Das iPhone Max wirkt „normal Groß“.
 * Bessere Kamera, mehr Speicher und mehr **Speed** z.B. bei Python (entspricht M1 MacBook Air).
-* Trotz Replit fragt sich, ob nicht mehr **Python** mit Pyto (oder Juno) statt **Julia**, da Pyto stand-alone läuft und iOS Funktionen integriert. Zudem ist es unwahrscheinlich, das ich nochmal die extreme Geschwindigkeit von Julia benötige. Leider ist die Working Copy (**Git**) Integration mit Pyto irgendwie noch nicht rund. Pyto selbst aber auch Juno brauchen noch Weiterentwicklung.
+* Trotz Replit fragt sich, ob nicht mehr **Python** mit Pyto (oder Juno) statt **Julia**, da Pyto stand-alone läuft und iOS Funktionen integriert. Zudem ist es unwahrscheinlich, das ich nochmal die extreme Geschwindigkeit von Julia benötige. Leider ist die Working Copy (**Git**) Integration mit Pyto irgendwie noch nicht rund. Pyto selbst aber auch Juno brauchen noch Weiterentwicklung. Aktuell gibt es auch ein Update von Pythonista3!
 * Also, trotz allem bleiben **Replit** und **CoCalc** die Tools der Wahl auf dem iPhone, besonders wenn es um **Julia** geht!
 * Das beste ist natürlich, das beim **cloud native** programmieren die Performance des iPhones nicht so wichtig ist und den Akku somit schont.
 
@@ -142,11 +141,11 @@ Codon is a high-performance Python compiler that compiles Python code to native 
 
 > Mobil zeigt sich zunehmend, dass CoCalc und Replit auf dem iPhone 11 Pro und 11 Max, bzw. 7 Plus, besser zu händeln sind als mit iPad(s) jeder Größe. Zuhause wird zur Zeit ein fester Mac Arbeitsplatz mit VSCode bevorzugt, wahlweise mit Cloud Anbindung (keine Konfiguration, keine Backups, mehr Leistung) und natürlich mit Remote Zugang zu CoCalc und Replit.
 
-> **Zentraler Ort für Konsum und Alltagsleben ist und bleibt das iPhone. Ich habe deshalb auf ein iPhone 13 Pro Max gesetzt, das dann später an Petra weitergegeben wird. Für den Sprung auf 14/15er ist es noch zu früh. Ein 13er, wegen dem hellem, großen und guten Bildschirm und der guten Akku-Leistung, musste es sein. Mein 11er bleibt Reserve.**
+> **Zentraler Ort für Konsum und Alltagsleben ist und bleibt das iPhone. Ich habe deshalb auf ein iPhone 13 Pro Max gesetzt. Für den Sprung auf 14/15er ist es noch zu früh. Ein 13er, wegen dem hellem, großen und guten Bildschirm und der guten Akku-Leistung, musste es sein. Mein 11er bleibt Reserve.**
 
 > Steht kein Mac zur Verfügung wäre ein größeres iPad bei umfangreichen Aufgaben eine hilfreiche mobile Option (Akkulaufzeit, Helligkeit, Mobilfunk), mehr aber auch nicht. Mittels externer Tastatur ist ein iPhone sogar quer genauso breit wie ein iPad mini im Hochformat. Bei gleicher Größe zum iPad bleibt ein MacBook immer noch vorteilhafter, da vielseitiger, allerdings ohne Mobilfunk.
 
-> Für ein neues iPhone muss ich immer auch an Petra denken, die ein Max bevorzugt! Zuhause muss irgendwann ein Mx Upgrade ran, möglichst gebraucht, etwa ein Mac Studio M1 Max 64gb/4tb. Meine 12er MacBooks langen noch lange hin.
+> Zuhause muss irgendwann ein Mx Upgrade ran, möglichst gebraucht, etwa ein Mac Studio M1 Max 64gb/4tb. Meine 12er MacBooks langen noch lange hin.
 
 ### Getestet
 
@@ -156,9 +155,9 @@ Geprüft welche Apps (primär Coding und Textverarbeitung) wirklich vom großen 
 * iPhone und besonders iPad mini machen eine gute Figur mit Stand bzw. Cover und logi Mini Tastatur.
 * Beim normalen 11er 33-36 oder auch 40 Zeichen und beim Max 45 sind vollkommen ok (c64 bzw. vc20)!
 * Programme entwickeln sich weiter, z.B. Juno wird besser
-* Floras 12er von der Breite her ok mit REPLIT und UpNote getestet, besonders die Tastatur ist schon besser.
+* Ein 12er von der Breite her ok mit REPLIT und UpNote getestet, besonders die Tastatur ist schon besser.
 * Zu meinem 11er Pro ist das 12er schon 3mm breiter und das Max sogar 9mm. Im Querformat also nur 1-3 zusätzliche Zeilen mit BT-Tastatur, also unerheblich.
-* Folglich nächstes Model erstmal ein Max, für Petra (später) und anschließend ggf. ein normales Pro dann wieder für mich, falls die Größe oder das Gewicht stören.
+* Folglich nächstes Model erstmal ein Max und anschließend ggf. ein normales Pro für mich, falls die Größe oder das Gewicht stören.
 
 ### Erprobten Tools & Dienste
 
