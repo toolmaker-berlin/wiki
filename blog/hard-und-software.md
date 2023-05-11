@@ -205,8 +205,8 @@ Geprüft welche Apps (primär Coding und Textverarbeitung) wirklich vom großen 
 ### Hardware (Update)
 
 * iPhone Pro (Max) ab 15er mit USB-C und ggf. Periskope Zoom und 3nm und WLAN 6E dann erst Anfang 2024. Bei dem hohen Preis muss es länger ok sein. Max oder nicht Max bleib die Frage! Tendenz: Das iPhone für alles!
-* iPad mini 7 mit OLED und Mx auch USB-C
-* MacBook (ab 12“) mit 5G und USB-C am besten mit OLED, primär für Cloud Nutzung ausgelegt
+* iPad mini 7 mit OLED und Mx auch USB-C wäre nett
+* MacBook (ab 12“) mit 5G und USB-C am besten mit OLED, primär für Cloud Nutzung ausgelegt wäre auch nett
 * Mac (Mini/Studio/Pro) alt oder neu mit hohem Single Core Wert ca 4-5 GHz gewünscht. **Alternativ, besonders unter Cloud Computing Gesichtspunkten, ist auch ein wie auch immer iMac nett!**
 * Apple’s Watch. Es reicht Serie 7 Cellular für Erfahrungen. Die Ultra erst mit Blutzucker Sensor. Derzeit wäre mein 11er mit Nokia Watch noch ok, aber wegen der Erfahrungen hab ich jetzt eine 7er.
 
@@ -238,9 +238,9 @@ Don’t worry if it doesn’t work right. If everything did, you’d be out of a
 
 > Privat musste ich noch eine Apple Watch Model 7(++) mit GPS und Celuar haben. Auch ein neuer(er) Mac Desktop reizt.
 
-> Blinde Flecken wurden inzwischen beseitigt. Neben GIT jetzt auch mal RUST und SWIFT angesehen. GO und LUA ziemlich uninteressant außer für NVIM mit LUA. PYTHON zunehmend lustlos außer Quick & Dirty. Was bleibt? Wieder mehr Julia, vielleicht mein 6502 Projekt oder Toolkit?
+> Blinde Flecken wurden inzwischen beseitigt. Neben GIT jetzt auch mal RUST und SWIFT angesehen. GO und LUA ziemlich uninteressant außer für NVIM mit LUA. PYTHON zunehmend lustlos außer Quick & Dirty. Was bleibt? Wieder mehr Julia, vielleicht meine alten Projekte?
 
-**Hardware:** iPad Mini mit Option Cellular geupdatet. Mobil also jetzt nur noch iOS/iPadOS. Notfalls MacBook (12“). Daher kein neues Notebook und auch vorerst kein neues iPhone notwendig. iPhone 11 Pro reicht aus und neuere Modelle sogar 2 mm breiter. Daher eher kein Max mehr notwendig (außer Petra). Abwarten wie es mit viel Schreiben und programmieren läuft. Weitere Modelle 2022 und Sommer/Herbst 2023/2024 abwarten. **Warum: Mobil iOS ist leichter, kleiner, heller und ausdauernder, sowie immer Online.**
+**Hardware:** iPad Mini mit Option Cellular geupdatet. Mobil also jetzt nur noch iOS/iPadOS. Notfalls MacBook (12“). Daher kein neues Notebook und auch vorerst kein neues iPhone notwendig. iPhone 11 Pro reicht aus und neuere Modelle sogar 2 mm breiter. Daher eher kein Max mehr notwendig. Abwarten wie es mit viel Schreiben und programmieren läuft. Weitere Modelle 2022 und Sommer/Herbst 2023/2024 abwarten. **Warum: Mobil iOS ist leichter, kleiner, heller und ausdauernder, sowie immer Online.**
 
 **Software:** Julia/Python mit VSCode/Vim am MacPro und via Blink/JUNO und Replit am iPhone/iPad (CoCalc). Python auch nativ am iPhone/iPad (Pyto/etc). Neu jetzt auch VSCode in Blink und Git/Codespaces. Und zuletzt noch ShellFish und WorkingCopy, perfekt! **Fazit: Mobil zum ausprobieren und lernen - Ernsthaft dann wieder am Desktop oder großen iPad (10,5“) mit Tastatur (primär Codespaces).**
 
@@ -262,9 +262,9 @@ Somit zur Zeit noch abwarten und probieren wie gut bzw. intensiv iPads vs iPhone
 
 Um es nochmal deutlich zu sagen: Mit dem iPhone zum Konsum und geringfügige Produktion von Inhalten ist man gut und portable unterwegs. Remote programmieren geht auch (besser allerdings mit iPad oder MacBook), aber nur mittelmäßig mit Julia und lokal eigentlich nur gut mit Python. Also vielleicht “back to the roots” und Projekte nur per Desktop und mit Python?
 
-> _Julia und VSCode bleiben vielleicht nur ein interessanter professioneller “Ausflug”. Als “Rentner/Hobbyist” bleibe ich vielleicht eher bei iOS und Python, wobei durch Replit die Chancen für Julia seit kurzem wieder steigen._
+> _Julia und VSCode bleiben vielleicht nur ein interessanter professioneller “Ausflug”. Als “Hobbyist” bleibe ich vielleicht eher bei iOS und Python, wobei durch Replit die Chancen für Julia seit kurzem wieder steigen._
 
-**Verrückte Situation: nicht “VS” sondern sowohl als auch - etwas Julia und Python (vertiefen) und auf Desktop, Notebook, Tablett und iPhone anwenden. Mit der am besten funktionierenden Methode. Nur zum Hobby - beruflich hat sich letztlich alles erledigt. Bezüglich Projektarbeit und Lernen geht derzeit nix über einen richtigen Arbeitsplatz mit allen Tools!**
+**Verrückte Situation: nicht “VS” sondern sowohl als auch - etwas Julia und Python (vertiefen) und auf Desktop, Notebook, Tablett und iPhone anwenden. Mit der am besten funktionierenden Methode. Bezüglich Projektarbeit und Lernen geht derzeit nix über einen richtigen Arbeitsplatz mit allen Tools!**
 
 > Daher rüste ich meinen MacPro Arbeitsplatz gerade etwas auf, besonders mit einem neuem Monitor. Tendenz: kein weiteres Notebook oder Mac Studio/Mini, eher **iPhone Pro Max oder iPad Pro Mx oder Mini Celluar (wir warten auf Mini 7 wegen Nits und CPU) und da mobiles OS dann auch kein VSCode außer großes iPad mit externer Tastatur, sondern nur BLINK oder JUNO mit CoCalc IDE und Replit.**
 
@@ -272,9 +272,7 @@ Um es nochmal deutlich zu sagen: Mit dem iPhone zum Konsum und geringfügige Pro
 
 > Besser ein iPhone 14/15 da bessere Performance per Watt und besserer Bildschirm mit 1000 und mehr Nits. Dieser Sommer ist gelaufen, da noch Kurse am MacPro und es bleibt Zeit die Systeme zu testen.
 
-Vorerst alles gelaufen da neues iPad Mini, iPhone 11 Max (Petra), Ersatz iMac mit Thunderbolt und iWatch angeschafft. Daher jetzt keine Vorentscheidung für neue Hardware, aber vertiefen der Software (hauptsächlich durch Kurse) bis mindestens 2023++.
-
-> Ich habe noch genug anderes zu erledigen, mich in Form zu bringen, an all den Teilchen und Programmen zu lernen und mich zu vergnügen. Viele offene Fragen bleiben, daher besser noch von Neuanschaffungen und Festlegungen für die Zukunft absehen.
+Vorerst alles gelaufen da neues iPad Mini, iPhone 11 Max, Ersatz iMac mit Thunderbolt und iWatch angeschafft. Daher jetzt keine Vorentscheidung für neue Hardware, aber vertiefen der Software bis mindestens 2023++.
 
 **Allenfalls zur Überbrückung noch ein 13er oder 12er iPhone Max, falls ich viel schreibe oder editiere und der Preis stimmt.**
 
@@ -296,17 +294,17 @@ MAX = 7,12 cm wie 11/13er 15,41 hoch Pro = 6,46 cm dass sind 6,6 mm weniger. Alt
 
 **iPad Pro 10.5 512GB Cellular** ist jetzt mit Logitech Keyboard (teilweise) optimales Outdoor Gerät. Display leider spiegelnd (jetzt mit zusätzlichem Entspiegelglas) aber hell genug mit 600+ nits. Nur ein Handy ist noch etwas besser (vorhanden). Test **BLINK ca 20% je Arbeitsstunde also ca 5 Stunden.** Daher auch vorerst kein neues MacBook Pro 14 Zoll notwendig (zum Experimentieren reichte ein Mac Air von Flora).
 
-**MacBook Pro 14 wäre die sinnvollste Neuanschaffung: Mehrwert ohne Verdrängung des MacPro’s. Hier möglichst warten auf M2 und Kapital für maximale Ausstattung.** Ein Notebook mit Thunderbolt könnte auch einen defekten Mac ersetzen. **Achtung: 4TB SSD wegen iCloud macht es teuer (4-5-6k)!**
+**MacBook Pro 14 wäre die sinnvollste Neuanschaffung: Mehrwert ohne Verdrängung des MacPro’s. Hier möglichst warten auf M2 und Kapital für maximale Ausstattung.** Ein Notebook mit Thunderbolt könnte auch einen defekten Mac ersetzen. **Achtung: 4TB SSD wegen großer iCloud macht es teuer (4-5-6k)!**
 
 > MBP 308 nits MB 12 Zoll 350 nits. Im Schatten oder bewölktes Wetter ist noch lesbar. Auf Schoß besser als iPad und je leichter je besser. Also die alten Notebook’s packen es noch zuhause und im Café.
 
 Es wird aber immer noch ein OSX Mac mit Thunderbolt benötigt (mein MacPro). Ab Mac Mini aufwärts ggf. mit Studio Display (optional späteres Model), oder Ersatz iMac/MacPro. **Möglichst warten auf M2 Mac Mini oder Studio falls Ersatzgerät nötig!**
 
-**Apple’s Spring Event** macht nachdenklich. Mobil hat sich nichts getan (p.s. das alte iPad von Petra macht sich gut, besonders im Garten in der Sonne). Notebooks sind nur wegen M1 interessant **(Speed und Accu)** und machen derzeit keinen Mehrwert. Zudem gibt es noch das 12er MacBook!
+**Apple’s Spring Event** macht nachdenklich. Mobil hat sich nichts getan (p.s. das alte iPad macht sich gut, besonders im Garten in der Sonne). Notebooks sind nur wegen M1 interessant **(Speed und Accu)** und machen derzeit keinen Mehrwert. Zudem gibt es noch das 12er MacBook!
 
 > Also wo noch einen Mac (Mini) M1 unterbringen und wozu? Ein M1 ist ca 2-3 mal schneller im Rechnen. Die neuen werden nicht viel schneller sein nur mehr Kerne und etwas mehr Bandbreite. Das ist zur Zeit von MacPro und CoCalc aber auch alles. Aber da alle M1 Single Core gleich schnell warten wir besser auf M2 und zwischendurch auf Flora.
 
-**Julia ist sehr interessant.** Jupyter Lab unterstützt es. Das Terminal mit Vim verlockt zum programmieren ähnlich IPython. Pluto als Jupyter Alternative ist der Hammer muss aber noch wachsen. Kurse und Bücher liegen bereit.
+**Julia ist sehr interessant.** Jupyter Lab unterstützt es. Das Terminal mit Vim verlockt zum programmieren ähnlich IPython. Pluto als Jupyter Alternative ist der Hammer muss aber noch wachsen.
 
 > **Python** ist mir vertraut geworden. Weiterer Einsatz und weiterlernen jedoch nur bedingt für iOS lokale Anwendung noch sinnvoll (**Pyto** und **Pythonista**). Das bedingt schnellere Geräte auch für ein mögliches **Julia mit iSH.** Aber braucht es das? **Swift** wäre dann wohl zukunftsweisend.
 
@@ -314,7 +312,7 @@ Es wird aber immer noch ein OSX Mac mit Thunderbolt benötigt (mein MacPro). Ab 
 
 > **Ärgerlich das Julias Performance wegen der Compiler nicht lokal auf iOS zum laufen zu bekommen ist.** Blink bzw. JUNO und ein Server sind die einzigen Möglichkeiten. Da aber nur noch eine zeitkritische Aufgabe zu erfüllen wäre fragt sich ob man nicht besser doch bei **Python** bleiben sollte.
 
-**Das 7Plus ist zu Petra gewandert. Ich halte besonders nach meiner ersten JULIA Erfahrung am 11 Pro fest. Hinzu kommt, daß ich das alte iPad 10.5 und iPad Mini 4 demnächst mehr für JULIA einsetzen werde. Vom Ergebnis hängt die Größe und der Zeitpunkt eines neuen iPhone‘s für mich ab. Wenn mehr JULIA benutzt wird, ist das Terminal am wichtigsten und Speed eher unwichtig. Python lokal wird dann auch eher unwichtig. Für das Cloud Computing stehen aktuell zwei Mac’s und zwei MacBook’s rum. Davon jeweils einer/eines noch aktuell. Mit JULIA geht es ab Richtung Cloud bzw. CoCalc. Daher, wie alles zur Zeit: abwarten!**
+**Ich halte besonders nach meiner ersten JULIA Erfahrung am 11 Pro fest. Hinzu kommt, daß ich das alte iPad 10.5 und iPad Mini 4 demnächst mehr für JULIA einsetzen werde. Vom Ergebnis hängt die Größe und der Zeitpunkt eines neuen iPhone‘s für mich ab. Wenn mehr JULIA benutzt wird, ist das Terminal am wichtigsten und Speed eher unwichtig. Python lokal wird dann auch eher unwichtig. Für das Cloud Computing stehen aktuell zwei Mac’s und zwei MacBook’s rum. Davon jeweils einer/eines noch aktuell. Mit JULIA geht es ab Richtung Cloud bzw. CoCalc. Daher, wie alles zur Zeit: abwarten!**
 
 Überraschend macht sich ein CASE mit Fingerring gut für die Couch. Das könnte mobiles arbeiten und konsumieren nochmal eine neue Richtung geben. Auch tippen macht sich so bedeutend besser.
 
@@ -326,15 +324,12 @@ Julia via CoCalc und JUNO auf dem 11er läuft und Codespaces auch.
 
 Überlegen Desktop vs Laptop: Laptop ist zwar Portable, damit aber auch anfällig für Diebstahl.
 
-Weiter: Falls Harald neues MacBook will geht das MacBook 12“ an Petra. ~~Möglich wäre auch zweites MacBook für mich da preiswerter.~~ Allerdings benutzt Petra es sehr selten. Und Harald hat jetzt das iPad 10.5 pro!
-
 ### Wozu der Desktop besser ist
 
 * Bessere **Sitzhaltung** beim Arbeiten (Eingabe) und Video Konsum und Vorträge (verzichtbar)
 * **SaveTV** und Livedrive bzw. Promise (Irgendwann obsolet also verzichtbar)
 * Zum programmieren meist grosser Bildschirm (**JupyterLab** für Test und Recherche aber verzichtbar)
 * Mitschneiden **YouTube** (alternativlos aber verzichtbar)
-* Download **ToorBox** (MacBook mobil ist alternativlos aber verzichtbar)
 * Tendenz iMac/MacMini/MacBook !!!
 
 ### Vorteil Laptop
@@ -365,9 +360,8 @@ Weiter: Falls Harald neues MacBook will geht das MacBook 12“ an Petra. ~~Mögl
 ### Drucker
 
 * Schriftverkehr (ersetzbar)
-* Arbeit besonders mit Schule
 * Als Fotokopierer (kein Ersatz)
-* Per AirPlay immer im Haus
+* Per AirPrint immer im Haus
 
 ## Neue Überlegungen
 
