@@ -292,7 +292,7 @@ MAX = 7,12 cm wie 11/13er 15,41 hoch Pro = 6,46 cm dass sind 6,6 mm weniger. Alt
 
 ### Gedanken
 
-**iPad Pro 10.5 512GB Cellular** ist jetzt mit Logitech Keyboard (teilweise) optimales Outdoor Gerät. Display leider spiegelnd (jetzt mit zusätzlichem Entspiegelglas) aber hell genug mit 600+ nits. Nur ein Handy ist noch etwas besser (vorhanden). Test **BLINK ca 20% je Arbeitsstunde also ca 5 Stunden.** Daher auch vorerst kein neues MacBook Pro 14 Zoll notwendig (zum Experimentieren reichte ein Mac Air von Flora).
+**iPad Pro 10.5 512GB Cellular** ist jetzt mit Logitech Keyboard (teilweise) optimales Outdoor Gerät. Display leider spiegelnd (jetzt mit zusätzlichem Entspiegelglas) aber hell genug mit 600+ nits. Nur ein Handy ist noch etwas besser (vorhanden). Test **BLINK ca 20% je Arbeitsstunde also ca 5 Stunden.** Daher auch vorerst kein neues MacBook Pro 14 Zoll notwendig (zum Experimentieren reichte ein Mac Air).
 
 **MacBook Pro 14 wäre die sinnvollste Neuanschaffung: Mehrwert ohne Verdrängung des MacPro’s. Hier möglichst warten auf M2 und Kapital für maximale Ausstattung.** Ein Notebook mit Thunderbolt könnte auch einen defekten Mac ersetzen. **Achtung: 4TB SSD wegen großer iCloud macht es teuer (4-5-6k)!**
 
@@ -302,7 +302,7 @@ Es wird aber immer noch ein OSX Mac mit Thunderbolt benötigt (mein MacPro). Ab 
 
 **Apple’s Spring Event** macht nachdenklich. Mobil hat sich nichts getan (p.s. das alte iPad macht sich gut, besonders im Garten in der Sonne). Notebooks sind nur wegen M1 interessant **(Speed und Accu)** und machen derzeit keinen Mehrwert. Zudem gibt es noch das 12er MacBook!
 
-> Also wo noch einen Mac (Mini) M1 unterbringen und wozu? Ein M1 ist ca 2-3 mal schneller im Rechnen. Die neuen werden nicht viel schneller sein nur mehr Kerne und etwas mehr Bandbreite. Das ist zur Zeit von MacPro und CoCalc aber auch alles. Aber da alle M1 Single Core gleich schnell warten wir besser auf M2 und zwischendurch auf Flora.
+> Also wo noch einen Mac (Mini) M1 unterbringen und wozu? Ein M1 ist ca 2-3 mal schneller im Rechnen. Die neuen werden nicht viel schneller sein nur mehr Kerne und etwas mehr Bandbreite. Das ist zur Zeit von MacPro und CoCalc aber auch alles. Aber da alle M1 Single Core gleich schnell warten wir besser auf M2.
 
 **Julia ist sehr interessant.** Jupyter Lab unterstützt es. Das Terminal mit Vim verlockt zum programmieren ähnlich IPython. Pluto als Jupyter Alternative ist der Hammer muss aber noch wachsen.
 
@@ -635,7 +635,6 @@ Damit könnte die MagSafe Batterie also auch ein iPhone 12 Pro problemlos vollst
 * Aktuelles MacBook Air M1 insgesamt so schnell MacPro (Multicore) und doppelt so schnell pur (Singlecore) aber gleich schnell mit iPhone!
 * Macbook Air etwas zu groß und etwas zu schwer im Vergleich 12er Macbook (Batterie noch 6 von 8 Std. und Speed 50% geht noch so)
 * **Auch hier neue Generationen (Air und Pros) abwarten falls nötig**
-* **iPhone zuerst an neues MAX für Petra denken**
 * Denke eher **keine Aufrüstungen und Reparaturen** mehr (altes iPad Batterie/LCD?, ~~MacBook Batterie~~, ~~MacPro SSD reicht~~ -> X mal 500,- und mehr -> iPhone's / Mini6 / M1)
 
 ### iPhone SE Model 2022
